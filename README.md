@@ -25,3 +25,8 @@ git clone https://github.com/ForestTschirhart/digilock_remote_v2.git
 cd digilock_remote_v2
 pip install -e .
 ```
+
+## Arduino Stuff
+
+Script intended to be used with the arduino script included in this repo. For more about the arduino project see:
+https://github.com/ForestTschirhart/gupta_lab_arduino_proj
